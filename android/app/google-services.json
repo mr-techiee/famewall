@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856243804950",
+    "project_id": "famewall-666ca",
+    "storage_bucket": "famewall-666ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856243804950:android:b89e1c6208b59681a00e37",
+        "android_client_info": {
+          "package_name": "com.famewall.famewall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856243804950-jij6qersackpsvea311tl4aa9me3rdne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0rR8vx-aLtI9ribXz87nKuCS3nUj9UVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856243804950-jij6qersackpsvea311tl4aa9me3rdne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
