@@ -14,6 +14,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "856243804950-2aq2nn4nvi3t1gg8dpl3bru23khjckoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famewall.famewall",
+            "certificate_hash": "a2418541a1bf53a25f8ef602b35d4593d72249c7"
+          }
+        },
+        {
+          "client_id": "856243804950-ls3auedl3uagosa2a6u7416g8pd4mts6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famewall.famewall",
+            "certificate_hash": "ce0dd1b1bb96bde9fca519108e400ab8db25b914"
+          }
+        },
+        {
           "client_id": "856243804950-jij6qersackpsvea311tl4aa9me3rdne.apps.googleusercontent.com",
           "client_type": 3
         }
