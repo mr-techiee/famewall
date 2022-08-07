@@ -72,7 +72,7 @@ dependencies:
   rich_text_controller: ^1.4.0
   webview_flutter: ^3.0.4
   flutter_image_compress: ^1.0.0
-  firebase_storage: ^8.0.6
+  firebase_storage: ^10.3.4
   path_provider: ^2.0.2
 dev_dependencies:
   flutter_test:
